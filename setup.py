@@ -1,6 +1,6 @@
 import setuptools
 
-setup(
+setuptools.setup(
         name='thinkstats2',
         version='0.1',
         packages=setuptools.find_packages(),
