@@ -1,4 +1,4 @@
-import setup
+import setuptools
 
 setup(
         name='thinkstats2',
